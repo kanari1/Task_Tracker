@@ -70,9 +70,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-# ToDo List 
+# Task Tracker 
 
-**ToDo List** is a CRUD web app for users to keep track of their tasks that they need to do.  
+**Task Tracker** is a CRUD web app for users to keep track of their tasks that they need to do.  
 
 Users can register using an email and password and login to their saved task list. Add tasks to the list, mark them as complete, and delete a task on your list.  
 
