@@ -3,13 +3,13 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 firebase.initializeApp({
-    apiKey: "AIzaSyAIF4O2zPFVVAo93OTHa1iBY8Wef-OV90c",
-    authDomain: "taks-list.firebaseapp.com",
-    projectId: "taks-list",
-    storageBucket: "taks-list.appspot.com",
-    messagingSenderId: "656339406492",
-    appId: "1:656339406492:web:d91d3f0a32918ea9ea2759",
-    measurementId: "G-KWRFK8NVNP"
+    apiKey: "AIzaSyAdoANR14KFZ-1xcASGRpryExT1RwadeKk",
+    authDomain: "task-list-c35d0.firebaseapp.com",
+    projectId: "task-list-c35d0",
+    storageBucket: "task-list-c35d0.appspot.com",
+    messagingSenderId: "882406888747",
+    appId: "1:882406888747:web:20a3ca9b3e9001bfba216e",
+    measurementId: "G-F5N2B59RYR"
 });
 
 
